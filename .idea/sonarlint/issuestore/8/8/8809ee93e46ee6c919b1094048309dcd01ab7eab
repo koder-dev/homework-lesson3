@@ -1,0 +1,8 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ü§•õ‡2J$66eb29b7-9e38-4fcd-9476-2f767ca0f592
+	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ı§•õ‡2J$d235fe42-f402-4db8-83f4-f5da17198d3e
+`
+java:S1854-">Remove this useless assignment to local variable "personData".(Îîìãüÿÿÿÿ8šÅÒõ‡2
+r	java:S106"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8‰¨•õ‡2J$48e8397a-a71b-4cd5-9662-19d86503f11f
+Q
+java:S1481-"/Remove this unused "personData" local variable.(Îîìãüÿÿÿÿ8¡ÅÒõ‡2
